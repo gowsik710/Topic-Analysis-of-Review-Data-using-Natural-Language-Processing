@@ -1,2 +1,2 @@
 # 2-Topic-Analysis-of-Review-Data-using-Natural-Language-Processing
-Topic Modelling
+The aim of this project is to perform topic modeling on Lenovo K8 budget smartphone dataset as the client is particularly interested in the different aspects that customers care about. Firstly the review text data is cleaned for easier manipulation and then topic modeling is performed using LDA (Latent Dirichlet Allocation). Finally Business friendly names are given to the topics for easier understanding.
